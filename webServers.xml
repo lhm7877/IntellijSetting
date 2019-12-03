@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ec28a22e-86f1-4c03-b315-e776229d815e" name="war" url="http://st-jenkins.midasweb.net">
+        <fileTransfer host="st-jenkins.midasweb.net" port="22" rootFolder="/home/data/deployment" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
