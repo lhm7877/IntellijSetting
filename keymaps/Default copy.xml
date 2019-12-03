@@ -6,6 +6,10 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
     <keyboard-shortcut first-keystroke="shift ctrl f4" second-keystroke="shift escape" />
@@ -22,6 +26,7 @@
   <action id="Console.TableResult.LastPage">
     <keyboard-shortcut first-keystroke="ctrl alt end" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="Coverage">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
