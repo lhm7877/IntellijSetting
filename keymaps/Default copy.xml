@@ -36,6 +36,9 @@
   <action id="Debug" />
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord">
