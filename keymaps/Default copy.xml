@@ -8,6 +8,9 @@
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="ctrl f6" />
