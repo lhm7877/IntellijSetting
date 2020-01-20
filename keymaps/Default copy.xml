@@ -37,10 +37,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
   <action id="Debug" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-    <mouse-shortcut keystroke="button1 doubleClick" />
-  </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="EditorResetFontSize">
@@ -112,6 +108,10 @@
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
+  </action>
+  <action id="ViewSource">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <mouse-shortcut keystroke="button1 doubleClick" />
   </action>
   <action id="action.impl.Translator">
     <mouse-shortcut keystroke="control button5" />
