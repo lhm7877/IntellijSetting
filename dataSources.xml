@@ -62,5 +62,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="agent_master" uuid="1650a5b7-756a-4e94-8755-3a2c7ecdaecc">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://db-2d8k.pub-cdb.gov-ntruss.com:3306</jdbc-url>
+    </data-source>
   </component>
 </application>
