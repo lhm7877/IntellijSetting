@@ -52,7 +52,7 @@
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/mit_common?autoReconnect=true&amp;amp=injob-hire_solution</jdbc-url>
+      <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/?autoReconnect=true</jdbc-url>
       <driver-properties>
         <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
       </driver-properties>
