@@ -81,5 +81,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-2d8k.pub-cdb.gov-ntruss.com:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="nbp-mmsw_master" uuid="e4d4f5ea-5275-428b-b0cd-bb3f854f255f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://db-2f1q.pub-cdb.gov-ntruss.com:3306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
+    </data-source>
   </component>
 </application>
