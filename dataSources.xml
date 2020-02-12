@@ -57,7 +57,7 @@
         <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="agent_master" uuid="1650a5b7-756a-4e94-8755-3a2c7ecdaecc">
+    <data-source source="LOCAL" name="nbp-2d8k-agent_master" uuid="1650a5b7-756a-4e94-8755-3a2c7ecdaecc">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -75,7 +75,7 @@
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-2e39.pub-cdb.gov-ntruss.com:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="agent_custom" uuid="aa98d0f0-6875-4414-96de-d01da299b7a4">
+    <data-source source="LOCAL" name="nbp-2d8k-agent_custom" uuid="aa98d0f0-6875-4414-96de-d01da299b7a4">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
