@@ -42,12 +42,6 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="dv_master" uuid="1e34abe9-5f67-4e9d-80d6-19e934955321">
-      <driver-ref>mariadb</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://dv-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/mit_common?autoReconnect=true&amp;amp;allowMultiQueries=true:3306/mit_common</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="lhm0805-aws" uuid="c6635d61-1598-4ff8-a3b2-1375e45faf65">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
@@ -56,12 +50,6 @@
       <driver-properties>
         <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
       </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="nbp-2d8k-agent_master" uuid="1650a5b7-756a-4e94-8755-3a2c7ecdaecc">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-2d8k.pub-cdb.gov-ntruss.com:3306</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="lhm0805-nbp-2d8k" uuid="ba6de32d-4537-4355-a188-bef2a70d5a3e">
       <driver-ref>mysql</driver-ref>
@@ -74,12 +62,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-2e39.pub-cdb.gov-ntruss.com:3306</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="nbp-2d8k-agent_custom" uuid="aa98d0f0-6875-4414-96de-d01da299b7a4">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-2d8k.pub-cdb.gov-ntruss.com:3306</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="nbp-mmsw_master" uuid="e4d4f5ea-5275-428b-b0cd-bb3f854f255f">
       <driver-ref>mysql.8</driver-ref>
