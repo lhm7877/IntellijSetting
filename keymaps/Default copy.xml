@@ -109,10 +109,6 @@
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
   </action>
-  <action id="ViewSource">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-    <mouse-shortcut keystroke="button1 doubleClick" />
-  </action>
   <action id="action.impl.Translator">
     <mouse-shortcut keystroke="control button5" />
   </action>
