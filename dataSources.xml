@@ -87,5 +87,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-2f1q.pub-cdb.gov-ntruss.com:3306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="@db-common-public.gov-dv-midasitwebsol.systems" uuid="89f7f7d8-b329-4f0f-a530-86c1782bbe88">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://db-common-public.gov-dv-midasitwebsol.systems:3306</jdbc-url>
+    </data-source>
   </component>
 </application>
