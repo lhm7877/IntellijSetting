@@ -93,11 +93,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-common-public.gov-dv-midasitwebsol.systems:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="@db-common.gov-pr-midasitwebsol.systems" uuid="e5cac59b-5321-407c-ba08-81ba08597fb8">
+    <data-source source="LOCAL" name="@db-data1.gov-pr-midasitwebsol.systems" uuid="e5cac59b-5321-407c-ba08-81ba08597fb8">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-common.gov-pr-midasitwebsol.systems:14306</jdbc-url>
+      <jdbc-url>jdbc:mysql://db-data1.gov-pr-midasitwebsol.systems:14306?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
   </component>
 </application>
