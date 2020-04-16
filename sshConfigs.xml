@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="101.101.168.82" id="289961a1-2f04-451d-9471-683c20825e68" port="22" customName="nbp" nameFormat="CUSTOM" username="webuser" />
+      <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="693b341c-9b48-4fd9-b20a-ebcee57ca840" port="22" customName="war" nameFormat="CUSTOM" username="webuser" />
+    </configs>
+  </component>
+</application>
