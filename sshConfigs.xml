@@ -7,6 +7,8 @@
       <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="4ab8a5c6-e3bf-4746-816f-758bfba82798" port="22" customName="war" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="101.101.168.82" id="b619bd5e-43d5-4b8a-84d4-b327c87ccd83" port="22" customName="nbp" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="5d847152-0d2a-44b8-9e0d-4f70a6c1b643" port="22" customName="war" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="101.101.168.82" id="3a2a79eb-9615-41fd-8980-4a6a0bae0011" port="22" customName="nbp" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="648b77e6-f4c0-4adc-b990-d8bfb598660f" port="22" customName="war" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
