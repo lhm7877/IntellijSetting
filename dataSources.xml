@@ -93,5 +93,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-data1.gov-pr-midasitwebsol.systems:14306?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="lhm0805-aws-dv" uuid="97d32b41-2f48-4310-9810-d16e713c9b34">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/</jdbc-url>
+    </data-source>
   </component>
 </application>
