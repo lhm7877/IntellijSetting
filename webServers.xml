@@ -2,19 +2,17 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="77ff09db-bd93-4027-8b10-daa45a2a0480" name="nbp" url="http://101.101.168.82">
-        <fileTransfer host="101.101.168.82" port="22" rootFolder="/data/inst" accessType="SFTP">
+        <fileTransfer rootFolder="/data/inst" accessType="SFTP" host="101.101.168.82" port="22" sshConfigId="289961a1-2f04-451d-9471-683c20825e68" sshConfig="nbp">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="ec28a22e-86f1-4c03-b315-e776229d815e" name="war" url="http://st-jenkins.midasweb.net">
-        <fileTransfer host="st-jenkins.midasweb.net" port="22" rootFolder="/home/data/deployment" accessType="SFTP">
+        <fileTransfer rootFolder="/home/data/deployment" accessType="SFTP" host="st-jenkins.midasweb.net" port="22" sshConfigId="8ebc3e40-d058-4c9f-8452-2efb44b134f7" sshConfig="war">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>

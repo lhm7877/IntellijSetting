@@ -3,17 +3,11 @@
     <configs>
       <sshConfig authType="PASSWORD" host="101.101.168.82" id="289961a1-2f04-451d-9471-683c20825e68" port="22" customName="nbp" nameFormat="CUSTOM" username="webuser" />
       <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="693b341c-9b48-4fd9-b20a-ebcee57ca840" port="22" customName="war" nameFormat="CUSTOM" username="webuser" />
-      <sshConfig authType="PASSWORD" host="101.101.168.82" id="34d3d34d-b0c2-411a-9435-d17c7d298bcd" port="22" customName="nbp" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="4ab8a5c6-e3bf-4746-816f-758bfba82798" port="22" customName="war" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="101.101.168.82" id="b619bd5e-43d5-4b8a-84d4-b327c87ccd83" port="22" customName="nbp" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="5d847152-0d2a-44b8-9e0d-4f70a6c1b643" port="22" customName="war" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="101.101.168.82" id="3a2a79eb-9615-41fd-8980-4a6a0bae0011" port="22" customName="nbp" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="648b77e6-f4c0-4adc-b990-d8bfb598660f" port="22" customName="war" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="101.101.168.82" id="b590b0e3-1c21-4114-a33d-547374ed631d" port="22" customName="nbp" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="73e2c75e-a905-4d31-8eee-8ab0bda28c71" port="22" customName="war" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="101.101.168.82" id="c1c14f0f-5a87-43e6-a09d-e46d59b0bb3e" port="22" customName="nbp" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="44bf54da-75ad-4c77-bdbc-d553a1ab8b11" port="22" customName="war" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="101.101.168.82" id="d3113dad-0a05-46b5-b82a-4fd2edc35b52" port="22" customName="nbp" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="8ebc3e40-d058-4c9f-8452-2efb44b134f7" port="22" customName="war" nameFormat="CUSTOM" />
     </configs>
   </component>
