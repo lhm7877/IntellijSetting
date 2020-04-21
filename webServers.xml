@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="ec28a22e-86f1-4c03-b315-e776229d815e" name="war" url="http://st-jenkins.midasweb.net">
-        <fileTransfer rootFolder="/home/data/deployment" accessType="SFTP" host="st-jenkins.midasweb.net" port="22" sshConfigId="8ebc3e40-d058-4c9f-8452-2efb44b134f7" sshConfig="war">
+        <fileTransfer rootFolder="/home/data/deployment" accessType="SFTP" host="st-jenkins.midasweb.net" port="22" sshConfigId="648b77e6-f4c0-4adc-b990-d8bfb598660f" sshConfig="war">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
