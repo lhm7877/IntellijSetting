@@ -12,7 +12,7 @@
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/mit_common?autoReconnect=true&amp;amp;allowMultiQueries=true:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="lhm0805-aws" uuid="c6635d61-1598-4ff8-a3b2-1375e45faf65">
+    <data-source source="LOCAL" name="lhm0805-aws-st" uuid="c6635d61-1598-4ff8-a3b2-1375e45faf65">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
