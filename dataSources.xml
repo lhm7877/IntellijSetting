@@ -5,42 +5,12 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/mit_common?autoReconnect=true&amp;amp=injob-hire_solution</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="mrs-common" uuid="c74f8645-45b8-4cdf-ad80-96f2ec44ad4b">
-      <driver-ref>mysql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/mrs_common</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="master" uuid="2366c6a4-f8f0-4d36-9f5e-2c91950bbe1f">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/mit_common?autoReconnect=true&amp;amp;allowMultiQueries=true:3306</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="lhm0805-aws" uuid="c6635d61-1598-4ff8-a3b2-1375e45faf65">
       <driver-ref>mysql</driver-ref>
