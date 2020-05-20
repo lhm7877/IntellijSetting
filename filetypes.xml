@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="afterSmsRequest" type="JSP" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="fds" type="PLAIN_TEXT" />
       <mapping pattern="EstimateProductDetailInsight" type="PLAIN_TEXT" />
       <mapping pattern="listEstimateTemplate" type="PLAIN_TEXT" />
