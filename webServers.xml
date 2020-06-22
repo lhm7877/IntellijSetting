@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="77ff09db-bd93-4027-8b10-daa45a2a0480" name="nbp" url="http://101.101.168.82">
-        <fileTransfer rootFolder="/data/inst" accessType="SFTP" host="101.101.168.82" port="22" sshConfigId="289961a1-2f04-451d-9471-683c20825e68" sshConfig="nbp">
+      <webServer id="77ff09db-bd93-4027-8b10-daa45a2a0480" name="nbp" url="http://101.101.212.147">
+        <fileTransfer rootFolder="/home1/ncloud" accessType="SFTP" host="101.101.212.147" port="4022" sshConfigId="289961a1-2f04-451d-9471-683c20825e68" sshConfig="nbp">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

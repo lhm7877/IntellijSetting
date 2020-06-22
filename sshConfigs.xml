@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="101.101.168.82" id="289961a1-2f04-451d-9471-683c20825e68" port="22" customName="nbp" nameFormat="CUSTOM" username="webuser" />
+      <sshConfig authType="PASSWORD" host="101.101.212.147" id="289961a1-2f04-451d-9471-683c20825e68" port="4022" customName="nbp" nameFormat="CUSTOM" username="ncloud" />
       <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="648b77e6-f4c0-4adc-b990-d8bfb598660f" port="22" customName="war" nameFormat="CUSTOM" username="webuser" />
     </configs>
   </component>
