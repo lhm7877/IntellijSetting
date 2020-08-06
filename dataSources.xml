@@ -51,5 +51,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/?allowMultiQueries=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="master-aws-dv" group="developer" uuid="ef366db2-a65e-45ea-9528-f7b0e385b0d7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
+    </data-source>
   </component>
 </application>
