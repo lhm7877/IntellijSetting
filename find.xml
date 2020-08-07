@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="CSAP-492 (견적서 등록) 견적 완료로 변경이 되지 않습니다." />
-    <option name="defaultScopeName" value="CSAP-492 (견적서 등록) 견적 완료로 변경이 되지 않습니다." />
-    <option name="SEARCH_SCOPE" value="CSAP-492 (견적서 등록) 견적 완료로 변경이 되지 않습니다." />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
