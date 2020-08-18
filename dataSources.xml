@@ -57,5 +57,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="custom-developer-aws-st" group="developer" uuid="be46200c-1f57-4312-ae75-2b1e2106afc6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306</jdbc-url>
+    </data-source>
   </component>
 </application>
