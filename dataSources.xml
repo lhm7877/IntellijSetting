@@ -63,5 +63,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="jobflex" group="developer" uuid="33774c38-8cca-4667-99bb-69917c031fb2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://websol2-db-data1.kr-dv-midasitwebsol.systems:4306</jdbc-url>
+    </data-source>
   </component>
 </application>
