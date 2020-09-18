@@ -154,6 +154,10 @@
           <option name="url" value="https://bitbucket.org/midasitweb/mrs-common-db" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/midasitweb/inair-common-db" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lhm0805\Documents\github" />
@@ -171,7 +175,6 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
