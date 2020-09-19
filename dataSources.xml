@@ -27,11 +27,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-2f1q.pub-cdb.gov-ntruss.com:3306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="@192.168.10.56" group="ncp" uuid="89f7f7d8-b329-4f0f-a530-86c1782bbe88">
+    <data-source source="LOCAL" name="jobflex@db-data2.kr-dv-midasitwebsol.systems" group="developer" uuid="89f7f7d8-b329-4f0f-a530-86c1782bbe88">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.10.56:3306</jdbc-url>
+      <jdbc-url>jdbc:mysql://db-data2.kr-dv-midasitwebsol.systems:4306/jobflex?serverTimezone=UTC&amp;verifyServerCertificate=false&amp;useSSL=false</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="@db-common.gov-pr-midasitwebsol.systems" group="ncp" uuid="e5cac59b-5321-407c-ba08-81ba08597fb8">
       <driver-ref>mysql.8</driver-ref>
