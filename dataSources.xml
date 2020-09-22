@@ -25,7 +25,7 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-2f1q.pub-cdb.gov-ntruss.com:3306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
+      <jdbc-url>jdbc:mysql://192.168.10.56:3306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="jobflex@db-data2.kr-dv-midasitwebsol.systems" group="developer" uuid="89f7f7d8-b329-4f0f-a530-86c1782bbe88">
       <driver-ref>mysql.8</driver-ref>
