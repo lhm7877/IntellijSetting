@@ -77,6 +77,10 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <mouse-shortcut keystroke="alt button1" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
