@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="afterSmsRequest" type="JSP" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern="listEstimateTemplate" type="PLAIN_TEXT" />
       <mapping pattern=".setenv-custom.sh.swp" type="PLAIN_TEXT" />
@@ -14,6 +12,8 @@
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="sh_20191007-01" type="PLAIN_TEXT" />
       <mapping ext="sh_20191008-01" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
