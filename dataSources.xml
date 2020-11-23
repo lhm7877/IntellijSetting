@@ -33,7 +33,7 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="custom-aws-dv" group="developer" uuid="c1852f91-8d54-4326-bc0f-6ba94909895f">
+    <data-source source="LOCAL" name="developer_custom-dv" group="developer" uuid="c1852f91-8d54-4326-bc0f-6ba94909895f">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -57,7 +57,7 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://websol2-db-data1.kr-dv-midasitwebsol.systems:4306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="developer_master" group="developer" uuid="3c8f15db-1274-48dd-a210-ee120b424a90">
+    <data-source source="LOCAL" name="developer_master-dv" group="developer" uuid="3c8f15db-1274-48dd-a210-ee120b424a90">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
