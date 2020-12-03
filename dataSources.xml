@@ -63,5 +63,23 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="developer-master-st" group="developer" uuid="518cc020-a273-4b8d-8ad7-274b6e2ded5e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="developer-custom-st" group="developer" uuid="9638252c-5762-46ba-bdab-d46d0aacbf80">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@db-data1.kr-dv-midasitwebsol.systems" uuid="de49c2e7-1cc7-43ee-a229-4c0c39d821fd">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
+    </data-source>
   </component>
 </application>
