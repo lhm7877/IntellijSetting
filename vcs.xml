@@ -198,9 +198,17 @@
           <option name="url" value="https://bitbucket.org/midasitweb/mrs-search" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/midasitweb/mrs-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/midasitweb/mrs-db" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\lhm0805\Documents\github" />
+    <option name="cloneParentDir" value="C:\Users\lhm0805\Documents\github\githubMRS-api" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
