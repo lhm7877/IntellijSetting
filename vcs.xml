@@ -206,9 +206,13 @@
           <option name="url" value="https://bitbucket.org/midasitweb/mrs-db" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/midasitweb/inair-common-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\lhm0805\Documents\github\githubMRS-api" />
+    <option name="cloneParentDir" value="C:\Users\lhm0805\Documents\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
