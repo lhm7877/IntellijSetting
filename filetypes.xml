@@ -8,6 +8,7 @@
       <mapping pattern=".setenv-custom.sh.swp" type="PLAIN_TEXT" />
       <mapping pattern="fds" type="PLAIN_TEXT" />
       <mapping pattern="EstimateProductDetailInsight" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
