@@ -226,6 +226,10 @@
           <option name="url" value="http://lhm7877@issue.midasit.com:9000/ljh3337/mit-common-scheduler" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/midasitweb/jobvideo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lhm0805\Documents\github" />
