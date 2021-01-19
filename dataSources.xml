@@ -81,7 +81,13 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="mrs-master [ST]" group="developer" uuid="545eac42-34c0-4534-ac20-94d608ac5940">
+    <data-source source="LOCAL" name="mrs-master [DV]" group="MRS" uuid="545eac42-34c0-4534-ac20-94d608ac5940">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://kr-dv-rds-infra1-v1.cry1gkwzyz3u.ap-northeast-2.rds.amazonaws.com:4306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="mrs-custom [DV]" group="MRS" uuid="06ec92e3-c3c7-4c1a-a4ed-d94776a23653">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
