@@ -93,5 +93,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://kr-dv-rds-infra1-v1.cry1gkwzyz3u.ap-northeast-2.rds.amazonaws.com:4306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="mrs-custom [ST]" group="MRS" uuid="7420d852-adaa-47d5-b51a-261d6813e449">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://infra1-v1-db-data1.midasweb.net:4306/mrs?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
+    </data-source>
   </component>
 </application>
