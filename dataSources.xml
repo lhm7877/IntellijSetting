@@ -15,12 +15,6 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.10.56:3306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="jobflex@db-data2.kr-dv-midasitwebsol.systems" group="developer" uuid="89f7f7d8-b329-4f0f-a530-86c1782bbe88">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-data2.kr-dv-midasitwebsol.systems:4306/jobflex?serverTimezone=UTC&amp;verifyServerCertificate=false&amp;useSSL=false</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="mit_common@192.168.10.56" group="ncp" uuid="e5cac59b-5321-407c-ba08-81ba08597fb8">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
@@ -32,54 +26,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="developer_custom-dv" group="developer" uuid="c1852f91-8d54-4326-bc0f-6ba94909895f">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/?allowMultiQueries=true</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="master-aws-dv" group="developer" uuid="ef366db2-a65e-45ea-9528-f7b0e385b0d7">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="custom-developer-aws-st" group="developer" uuid="be46200c-1f57-4312-ae75-2b1e2106afc6">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="jobflex" group="developer" uuid="33774c38-8cca-4667-99bb-69917c031fb2">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://websol2-db-data1.kr-dv-midasitwebsol.systems:4306</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="developer_master-dv" group="developer" uuid="3c8f15db-1274-48dd-a210-ee120b424a90">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="developer-master-st" group="developer" uuid="518cc020-a273-4b8d-8ad7-274b6e2ded5e">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="developer-custom-st" group="developer" uuid="9638252c-5762-46ba-bdab-d46d0aacbf80">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://st-rds-web-master.cfrba7dflywv.ap-northeast-2.rds.amazonaws.com:3306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="@db-data1.kr-dv-midasitwebsol.systems" uuid="de49c2e7-1cc7-43ee-a229-4c0c39d821fd">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="mrs-master [DV]" group="MRS" uuid="545eac42-34c0-4534-ac20-94d608ac5940">
       <driver-ref>mysql.8</driver-ref>
