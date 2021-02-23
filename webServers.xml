@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="77ff09db-bd93-4027-8b10-daa45a2a0480" name="nbp" url="http://101.101.212.147">
+        <fileTransfer rootFolder="/home1/ncloud" accessType="SFTP" host="101.101.212.147" port="4022" sshConfigId="289961a1-2f04-451d-9471-683c20825e68" sshConfig="nbp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ec28a22e-86f1-4c03-b315-e776229d815e" name="war" url="http://st-jenkins.midasweb.net">
+        <fileTransfer rootFolder="/home/data/deployment" accessType="SFTP" host="st-jenkins.midasweb.net" port="22" sshConfigId="648b77e6-f4c0-4adc-b990-d8bfb598660f" sshConfig="war">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
