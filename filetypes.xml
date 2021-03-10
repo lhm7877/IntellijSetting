@@ -8,6 +8,7 @@
       <mapping pattern="listEstimateTemplate" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern=".setenv-custom.sh.swp" type="PLAIN_TEXT" />
+      <mapping pattern="as" type="PLAIN_TEXT" />
       <mapping pattern="fds" type="PLAIN_TEXT" />
       <mapping pattern="EstimateProductDetailInsight" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
