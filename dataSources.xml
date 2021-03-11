@@ -45,11 +45,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://infra1-v1-db-data1.midasweb.net:4306/mrs?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="lhm0805-aws-dv [2]" group="lhm0805" uuid="8457bff3-b109-4b3b-9876-9661023f26b3">
+    <data-source source="LOCAL" name="lhm0805-ncp-dv" group="ncp" uuid="8457bff3-b109-4b3b-9876-9661023f26b3">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://db-data1.kr-dv-midasitwebsol.systems:4306/?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
+      <jdbc-url>jdbc:mysql://192.168.10.56:3306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
   </component>
 </application>
