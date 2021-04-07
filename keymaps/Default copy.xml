@@ -116,4 +116,7 @@
   <action id="action.impl.Translator">
     <mouse-shortcut keystroke="control button5" />
   </action>
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
 </keymap>
