@@ -51,5 +51,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.10.56:3306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="lhm0805-ncp-dv websol2" group="ncp" uuid="2ed6346c-d506-4b8e-a1bf-a3d1d4fe63c7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.10.56:3306/mit_common?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
+    </data-source>
   </component>
 </application>
