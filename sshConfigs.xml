@@ -1,8 +1,12 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="101.101.212.147" id="289961a1-2f04-451d-9471-683c20825e68" port="4022" customName="nbp" nameFormat="CUSTOM" username="lhm0805" />
-      <sshConfig authType="PASSWORD" host="st-jenkins.midasweb.net" id="648b77e6-f4c0-4adc-b990-d8bfb598660f" port="22" customName="war" nameFormat="CUSTOM" username="webuser" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="101.101.212.147" id="289961a1-2f04-451d-9471-683c20825e68" port="4022" customName="nbp" nameFormat="CUSTOM" username="lhm0805">
+        <option name="customName" value="nbp" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="st-jenkins.midasweb.net" id="648b77e6-f4c0-4adc-b990-d8bfb598660f" port="22" customName="war" nameFormat="CUSTOM" username="webuser">
+        <option name="customName" value="war" />
+      </sshConfig>
     </configs>
   </component>
 </application>
