@@ -16,7 +16,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="lhm0805" />
+          <option name="userName" value="lhm0805@midasin.com" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://bitbucket.org/midasitweb/mmsw/src/" />
@@ -252,6 +252,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/yebgi83/kakaopay-problem-2" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lhm7877/AlgorithmStudy" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
