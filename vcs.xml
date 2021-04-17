@@ -258,9 +258,13 @@
           <option name="url" value="https://github.com/lhm7877/AlgorithmStudy" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/elinapark0818/Portfolio" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\lhm0805\Documents\github" />
+    <option name="cloneParentDir" value="C:\Users\HOO\IdeaProjects\elinapark0818" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
