@@ -266,6 +266,10 @@
           <option name="url" value="https://github.com/shk3029/java-baseball" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/next-step/java-baseball" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lhm0805\Documents\github" />
