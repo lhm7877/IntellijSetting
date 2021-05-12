@@ -237,6 +237,11 @@
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="TailRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
+                    </value>
+                  </entry>
                   <entry key="TestNG">
                     <value>
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" bundled="true" />
@@ -265,6 +270,16 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="aws.ecs.cloud-debug">
+                    <value>
+                      <FeaturePluginData displayName="AWS ECS Service Cloud Debug (Beta)" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
+                    </value>
+                  </entry>
+                  <entry key="aws.lambda">
+                    <value>
+                      <FeaturePluginData displayName="AWS Lambda" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
