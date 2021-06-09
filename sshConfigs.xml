@@ -7,6 +7,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="st-jenkins.midasweb.net" id="648b77e6-f4c0-4adc-b990-d8bfb598660f" port="22" customName="war" nameFormat="CUSTOM" username="webuser">
         <option name="customName" value="war" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="devap1.midasweb.net" id="c7c0b707-2463-4d5a-a528-7083ce9e1d30" port="22" nameFormat="DESCRIPTIVE" username="webuser" />
     </configs>
   </component>
 </application>
