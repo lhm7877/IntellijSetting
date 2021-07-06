@@ -169,7 +169,6 @@
       <value>
         <option name="FOREGROUND" value="de1688" />
         <option name="EFFECT_COLOR" value="de1688" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -618,6 +617,28 @@
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="92cb2a" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="9494d2" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="678cb1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="678cb1" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="678cb1" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
