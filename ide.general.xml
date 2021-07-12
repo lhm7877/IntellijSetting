@@ -19,9 +19,13 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="AwsSettingsPanel" value="false" />
+        <entry key="CodeStream.StatusBar" value="false" />
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="TypeScriptInfo" value="false" />
         <entry key="com.codota.intellij.common.notifier.CodotaStatusWidget" value="false" />
-        <entry key="git" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
       </map>
     </option>
   </component>
