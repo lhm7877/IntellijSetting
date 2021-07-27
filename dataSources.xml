@@ -75,5 +75,19 @@
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://db-data1.kr-dv-midasitwebsol.systems:4306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="dts-dv" group="dts" uuid="b57e5c12-596a-4883-9934-cbae0d96efdb">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://dts.cekqyqbrg6my.ap-northeast-2.rds.amazonaws.com:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="dts" group="dts" uuid="464d8e50-1363-4b4f-ab15-0907b487e0b7">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
