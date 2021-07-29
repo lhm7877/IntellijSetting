@@ -42,6 +42,11 @@
                       <FeaturePluginData displayName="Arquillian TestNG" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="BatchConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
+                    </value>
+                  </entry>
                   <entry key="CapistranoRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Capistrano" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
@@ -55,6 +60,11 @@
                   <entry key="CommandRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Gem Command" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                    </value>
+                  </entry>
+                  <entry key="ComposerRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Composer Script" pluginName="PHP" pluginId="com.jetbrains.php" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -195,6 +205,36 @@
                   <entry key="NodeunitConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="PHPUnitRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHPUnit" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PhpBuiltInWebServerConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHP Built-in Web Server" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PhpHttpRequestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHP HTTP Request" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PhpLocalRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHP Script" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PhpRemoteDebugRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHP Remote Debug" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PhpWebAppRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHP Web Page" pluginName="PHP" pluginId="com.jetbrains.php" />
                     </value>
                   </entry>
                   <entry key="PyBehaveRunConfigurationType">

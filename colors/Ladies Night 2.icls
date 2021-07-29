@@ -619,6 +619,11 @@
         <option name="FOREGROUND" value="92cb2a" />
       </value>
     </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+      </value>
+    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="9494d2" />
