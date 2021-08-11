@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="MITP-312 [ISMS] (취약점 진단조치) 마케팅 수신동의 전송매체 선택" />
-    <option name="defaultScopeName" value="MITP-312 [ISMS] (취약점 진단조치) 마케팅 수신동의 전송매체 선택" />
-    <option name="SEARCH_SCOPE" value="MITP-312 [ISMS] (취약점 진단조치) 마케팅 수신동의 전송매체 선택" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
