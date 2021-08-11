@@ -69,12 +69,6 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://db-data2.gov-dv-midasitwebsol.systems:3306?autoReconnect=true&amp;allowMultiQueries=true</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="lhm0805-aws-dv [2]" group="lhm0805" uuid="c0e897fb-ed8b-48c9-9a54-85dbd041de49">
-      <driver-ref>mariadb</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://db-data1.kr-dv-midasitwebsol.systems:4306</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="dts-dv" group="dts" uuid="b57e5c12-596a-4883-9934-cbae0d96efdb">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
@@ -95,6 +89,12 @@
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://dts-v1-db-data1.dts.kr-dv-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="lhm0805-aws-dv [2]" group="lhm0805" uuid="b3ccf7aa-e454-40c6-9f01-cf90e8e38873">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://db-data1.kr-dv-midasitwebsol.systems:4306</jdbc-url>
     </data-source>
   </component>
 </application>

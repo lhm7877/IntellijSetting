@@ -2,6 +2,7 @@
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
+      <property name="passwordCharacterEncoding" value="utf8" />
     </driver>
     <driver id="mysql.8" dialect="MariaDB">
       <artifact />
