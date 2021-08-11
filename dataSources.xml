@@ -93,7 +93,7 @@
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://infra4-v1-db-data1.kr-dv-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
+      <jdbc-url>jdbc:mariadb://dts-v1-db-data1.dts.kr-dv-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
