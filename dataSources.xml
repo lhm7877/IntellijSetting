@@ -103,5 +103,12 @@
       <jdbc-url>jdbc:mariadb://dts-v1-db-data1.dts.kr-st-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="dts-kr-pr" group="dts" uuid="b0f21fdb-76b0-4bb2-a729-45e00024f743">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://dts-v1-db-data1.dts.kr-pr-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
