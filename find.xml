@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value=": DTS-421 [B] 모듈 자동 배포 논의 (DTS-DB, DTS-KMS)" />
+    <option name="defaultScopeName" value=": DTS-421 [B] 모듈 자동 배포 논의 (DTS-DB, DTS-KMS)" />
+    <option name="SEARCH_SCOPE" value=": DTS-421 [B] 모듈 자동 배포 논의 (DTS-DB, DTS-KMS)" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
