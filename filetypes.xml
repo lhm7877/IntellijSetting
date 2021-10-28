@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="SA" type="AUTO_DETECTED" />
+      <mapping ext="cmd" type="Batch" />
+      <removed_mapping ext="cmd" type="Cmd" />
       <mapping pattern="afterSmsRequest" type="JSP" />
       <mapping pattern="EstimateProductDetailInsight" type="PLAIN_TEXT" />
       <mapping pattern=".setenv-custom.sh.swp" type="PLAIN_TEXT" />
