@@ -350,6 +350,10 @@
           <option name="url" value="https://github.com/ulisesbocchio/jasypt-spring-boot-samples" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kasramp/spring-data-redis-example-kotlin" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lhm0805\Documents\github" />
