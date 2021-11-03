@@ -3,8 +3,10 @@
     <extensionMap>
       <mapping pattern="SA" type="AUTO_DETECTED" />
       <mapping ext="cmd" type="Batch" />
-      <removed_mapping ext="cmd" type="Cmd" />
       <mapping pattern="afterSmsRequest" type="JSP" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="EstimateProductDetailInsight" type="PLAIN_TEXT" />
       <mapping pattern=".setenv-custom.sh.swp" type="PLAIN_TEXT" />
       <mapping pattern="as" type="PLAIN_TEXT" />
@@ -21,10 +23,8 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="sh_20191008-01" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
