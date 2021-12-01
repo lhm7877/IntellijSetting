@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="DTS-618 [B] 문제 생성시 미리보기 기능 동작 안됨" />
+    <option name="defaultScopeName" value="DTS-618 [B] 문제 생성시 미리보기 기능 동작 안됨" />
+    <option name="SEARCH_SCOPE" value="DTS-618 [B] 문제 생성시 미리보기 기능 동작 안됨" />
+    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
