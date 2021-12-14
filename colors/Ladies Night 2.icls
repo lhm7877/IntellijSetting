@@ -31,10 +31,12 @@
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="293134" />
     <option name="INDENT_GUIDE" value="802947" />
+    <option name="INFORMATION_HINT" value="4b4d4d" />
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
     <option name="METHOD_SEPARATORS_COLOR" value="2f393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="PROMOTION_PANE" value="376c89" />
+    <option name="QUESTION_HINT" value="376c89" />
     <option name="RECENT_LOCATIONS_SELECTION" value="323232" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
