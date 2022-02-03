@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="cmd" type="Batch" />
       <mapping pattern="afterSmsRequest" type="JSP" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
-      <mapping pattern="listEstimateTemplate" type="PLAIN_TEXT" />
-      <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern="EstimateProductDetailInsight" type="PLAIN_TEXT" />
       <mapping pattern=".setenv-custom.sh.swp" type="PLAIN_TEXT" />
       <mapping pattern="as" type="PLAIN_TEXT" />
-      <mapping pattern="fds" type="PLAIN_TEXT" />
-      <mapping pattern="EstimateProductDetailInsight" type="PLAIN_TEXT" />
+      <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern="listEstimateTemplate" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="fds" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
@@ -20,6 +21,7 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="sh_20191008-01" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
