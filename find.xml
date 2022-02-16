@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value=": DTS-639 문제 순서 반대로 설정되도록 개선" />
+    <option name="defaultScopeName" value=": DTS-639 문제 순서 반대로 설정되도록 개선" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value=": DTS-639 문제 순서 반대로 설정되도록 개선" />
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
