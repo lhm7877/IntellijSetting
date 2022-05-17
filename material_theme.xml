@@ -10,9 +10,11 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
     <option name="indicatorStyle" value="None" />
     <option name="tabsHeight" value="42" />
-    <option name="accentColor" value="416a9b" />
+    <option name="accentColor" value="82b1ff" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-2e2de7ba:16dd7354c15:-7fff" />
