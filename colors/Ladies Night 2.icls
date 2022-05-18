@@ -173,7 +173,6 @@
       <value>
         <option name="FOREGROUND" value="de1688" />
         <option name="EFFECT_COLOR" value="de1688" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -309,7 +308,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="444444" />
+        <option name="FOREGROUND" value="fdfdfd" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
