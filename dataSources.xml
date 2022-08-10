@@ -1,13 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="dts" group="dts" uuid="464d8e50-1363-4b4f-ab15-0907b487e0b7">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="phs" group="phs" uuid="734048ad-3ab2-4850-bb48-712d6bed0b54">
+    <data-source source="LOCAL" name="phs-dv(lhm0805)" group="lhm0805" uuid="d631c1a8-78b3-4550-9784-937c4867647b">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <remarks>Xx2KULpbq7</remarks>
@@ -15,18 +8,18 @@
       <jdbc-url>jdbc:mariadb://phs-v1-db-data1.dts.kr-dv-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="phs-st" group="phs" uuid="4bfd6c2f-25f2-4d04-8cef-9a81bc8e1eed">
+    <data-source source="LOCAL" name="phs-st(lhm0805)" group="lhm0805" uuid="0289c456-dd23-4581-91a5-075f1f9fd462">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://phs-v1-db-data1.dts.kr-st-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="phs-pr" group="lhm0805" uuid="98af0b15-063f-45a0-9126-0fc6c9534dcf">
-      <driver-ref>mariadb</driver-ref>
+    <data-source source="LOCAL" name="dts" group="phs" uuid="464d8e50-1363-4b4f-ab15-0907b487e0b7">
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://phs-v1-db-data1.dts.kr-pr-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
