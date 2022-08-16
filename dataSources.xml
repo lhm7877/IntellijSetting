@@ -15,7 +15,7 @@
       <jdbc-url>jdbc:mariadb://phs-v1-db-data1.dts.kr-st-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="dts" group="phs" uuid="464d8e50-1363-4b4f-ab15-0907b487e0b7">
+    <data-source source="LOCAL" name="phs-local" group="phs" uuid="464d8e50-1363-4b4f-ab15-0907b487e0b7">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
