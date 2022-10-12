@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="PHS-2208 [B] 이미지 첨부 방식 개선" />
+    <option name="defaultScopeName" value="PHS-2208 [B] 이미지 첨부 방식 개선" />
+    <option name="SEARCH_SCOPE" value="PHS-2208 [B] 이미지 첨부 방식 개선" />
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
