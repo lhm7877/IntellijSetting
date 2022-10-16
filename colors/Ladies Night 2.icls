@@ -173,7 +173,6 @@
       <value>
         <option name="FOREGROUND" value="de1688" />
         <option name="EFFECT_COLOR" value="de1688" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -309,7 +308,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="fefffb" />
+        <option name="FOREGROUND" value="fdfdfd" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -351,7 +350,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="535353" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -537,6 +536,24 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="666666" />
+        <option name="BACKGROUND" value="eeeeee" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="666666" />
+        <option name="BACKGROUND" value="bcdaf7" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="666666" />
+        <option name="BACKGROUND" value="cccccc" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ecba61" />
@@ -558,6 +575,11 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="9c9cff" />
+      </value>
+    </option>
     <option name="KOTLIN_LABEL">
       <value />
     </option>
@@ -566,12 +588,17 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="93c763" />
+        <option name="FOREGROUND" value="7a7aff" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
         <option name="FOREGROUND" value="7d8c93" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7a7aff" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
@@ -624,9 +651,14 @@
         <option name="FOREGROUND" value="92cb2a" />
       </value>
     </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="b2ff30" />
+      </value>
+    </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="ff0000" />
+        <option name="FOREGROUND" value="92cb2a" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME">
@@ -877,6 +909,11 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc3f3c" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="a3a3ff" />
       </value>
     </option>
   </attributes>

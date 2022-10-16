@@ -9,6 +9,8 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
+    <mask>*rq.java</mask>
     <mask>*.java</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>

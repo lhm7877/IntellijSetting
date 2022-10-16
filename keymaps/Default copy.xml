@@ -57,6 +57,9 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="m" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="d" />
   </action>

@@ -1,0 +1,22 @@
+<application>
+  <component name="Kafkalytic">
+    <option name="clusters">
+      <map>
+        <entry key="b-1.kr-dv-msk-devops.lcl0t0.c3.kafka.ap-northeast-2.amazonaws.com:9092,b-2.kr-dv-msk-devops.lcl0t0.c3.kafka.ap-northeast-2.amazonaws.com:9092">
+          <value>
+            <map>
+              <entry key="bootstrap.servers" value="b-1.kr-dv-msk-devops.lcl0t0.c3.kafka.ap-northeast-2.amazonaws.com:9092,b-2.kr-dv-msk-devops.lcl0t0.c3.kafka.ap-northeast-2.amazonaws.com:9092" />
+              <entry key="name" value="b-1.kr-dv-msk-devops.lcl0t0.c3.kafka.ap-northeast-2.amazonaws.com:9092,b-2.kr-dv-msk-devops.lcl0t0.c3.kafka.ap-northeast-2.amazonaws.com:9092" />
+              <entry key="request.timeout.ms" value="5000" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="config">
+      <map>
+        <entry key="progress_tip" value="shown" />
+      </map>
+    </option>
+  </component>
+</application>
