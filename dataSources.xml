@@ -30,7 +30,7 @@
       <jdbc-url>jdbc:mariadb://phs-v1-db-data1.dts.kr-dv-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="z_phs-pr(lhm0805)" read-only="true" group="lhm0805" uuid="5377f412-2f76-49f3-9b5b-2dccebaa25db">
+    <data-source source="LOCAL" name="z_phs-pr(lhm0805)" group="lhm0805" uuid="5377f412-2f76-49f3-9b5b-2dccebaa25db">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
