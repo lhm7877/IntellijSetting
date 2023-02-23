@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="PHS-2794 [cms][pms] 문제 미리보기 안되는 현상" />
+    <option name="defaultScopeName" value="PHS-2794 [cms][pms] 문제 미리보기 안되는 현상" />
+    <option name="SEARCH_SCOPE" value="PHS-2794 [cms][pms] 문제 미리보기 안되는 현상" />
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
