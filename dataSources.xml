@@ -44,5 +44,12 @@
       <jdbc-url>jdbc:mariadb://phs-v1-db-data2.dts.kr-st-jainwon.systems:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="z_phs-pr-test" group="lhm0805" uuid="a10dbdcc-c8f0-4440-b2f6-611cdee29e81">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://kr-pr-rds-phs-restore.caxuee9wcya0.ap-northeast-2.rds.amazonaws.com:4306?autoReconnect=true&amp;characterEncoding=UTF-8</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
