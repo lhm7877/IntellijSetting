@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="PHS-2841 [B] 기업용 레포트 pst 로직 최적화(통계 등)" />
-    <option name="defaultScopeName" value="PHS-2841 [B] 기업용 레포트 pst 로직 최적화(통계 등)" />
-    <option name="SEARCH_SCOPE" value="PHS-2841 [B] 기업용 레포트 pst 로직 최적화(통계 등)" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
