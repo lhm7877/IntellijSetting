@@ -39,6 +39,9 @@
   <action id="Coverage">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
+  <action id="DatabaseView.Ddl.AlterObject">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+  </action>
   <action id="Debug" />
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
@@ -82,6 +85,9 @@
   <action id="Jpa.OpenConsole" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="ModifyObject">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="QuickEvaluateExpression">
     <mouse-shortcut keystroke="alt button1" />
