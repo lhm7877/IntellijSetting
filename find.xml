@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="PHS-3265 [cms] 가입 대기상태 인원 로그인 시도시 로그인 가능한 현상" />
-    <option name="defaultScopeName" value="PHS-3265 [cms] 가입 대기상태 인원 로그인 시도시 로그인 가능한 현상" />
-    <option name="SEARCH_SCOPE" value="PHS-3265 [cms] 가입 대기상태 인원 로그인 시도시 로그인 가능한 현상" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
