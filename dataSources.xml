@@ -1,0 +1,167 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="mysql_odk" uuid="b4d6657a-f4fa-42d5-9a21-c4c82b65cffc">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3328/www</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="billing" uuid="e0eb4da4-2558-4f25-ab12-de2bd172c239">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3307</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="postgres" uuid="d6586d4e-4463-4b53-9cb5-8cb2d5c039bc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:15432/</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="postgres_log" uuid="1649563b-48b1-4d37-b930-a44e2e8a72bc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:15434/log</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="postgres [pr]" read-only="true" uuid="05a4543a-45f5-4042-9f4b-41c6082c34ba">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://odkmedia-io.cluster-cecpdke9m6vu.us-west-2.rds.amazonaws.com:5432/odkmedia-c</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <time-zone>UTC</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="postgres [st2]" uuid="d3fde4da-b1c7-4092-9775-2cbe3d178ae7">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://postgres-uswest2-stg2-mediaio.cl0xpazfqqj5.us-west-2.rds.amazonaws.com:5432/odkmedia-c</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="billing [st]" uuid="9886c27a-e18a-41e4-a227-d2df51570979">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://terraform-00baa395baa31ab57a2ffd5bd2.cecpdke9m6vu.us-west-2.rds.amazonaws.com:3306/db_billing</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="billing [pr]" read-only="true" uuid="060ab82b-57b7-4a52-a4e5-c0dd0f00f3a7">
+      <driver-ref>mysql_aurora</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://odk-prd-uswest2-db-21-cluster.cluster-cecpdke9m6vu.us-west-2.rds.amazonaws.com:3306/db_billing</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <driver-properties>
+        <property name="enabledTLSProtocols" value="TLSv1, TLSv1.1, TLSv1.2, TLSv1.3" />
+      </driver-properties>
+      <time-zone>Asia/Seoul</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="billadm_mysql" uuid="1abbbe47-9f9e-43a3-a694-c461eef5b480">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3326/billadm</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="www_mysql" uuid="57632f89-1503-4a6a-a7dd-095c1ce03ca6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:13306/www</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="billing [2]" uuid="4513cf32-c2c0-42c4-9443-c67b8402ff61">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3327</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="www_webhook" uuid="dac2476a-3b66-45aa-a2c8-307500a52b80">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3316/www</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="www_mysql [pr]" read-only="true" uuid="e90c2483-fb18-4fcb-a2f2-c04ac42c999d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://odk-live-uswest2-db-1-restore-1-cluster.cluster-cecpdke9m6vu.us-west-2.rds.amazonaws.com:3306/www</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="postgres [st1]" uuid="f4ba19f2-4d75-4182-b1f6-215cc76d5cf9">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://media-io-staging1-240723-cluster.cl0xpazfqqj5.us-west-2.rds.amazonaws.com:5432/odkmedia-c</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <time-zone>UTC</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="billing [st1]" uuid="02bd9130-6e97-4da4-b9c3-f9f0dde23d8f">
+      <driver-ref>mysql_aurora</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://mysql-uswest2-stg1-billing.cl0xpazfqqj5.us-west-2.rds.amazonaws.com:3306/db_billing</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ucms [local]" uuid="e31f0a53-029e-44de-a409-eb2b9e527bb1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:25432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ucms [pr]" read-only="true" uuid="26b64007-1dd3-48cc-b097-87b5f021ca17">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://aurora-uswest2-prod-ucms.cluster-cecpdke9m6vu.us-west-2.rds.amazonaws.com:5432/ucms</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ucms [st1]" uuid="d74f4c09-3415-46d8-91ad-b98d51b5e90b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://postgres-uswest2-stg1-ucms.cl0xpazfqqj5.us-west-2.rds.amazonaws.com:5432/ucms</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <time-zone>UTC</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="postgres [st2-new]" uuid="eaf62b35-1697-48b9-83d0-fc417ee1c149">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://postgres-uswest2-stg2-mediaio-20251119-cluster-cluster.cluster-cl0xpazfqqj5.us-west-2.rds.amazonaws.com:5432/odkmedia-c</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ucms [st1-new]" uuid="be677641-5f48-498e-a923-a6ed5566bc2a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://uswest2-stg-ucms20251117-cluster.cluster-cl0xpazfqqj5.us-west-2.rds.amazonaws.com:5432/ucms</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <time-zone>UTC</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="postgres [pr] [2]" read-only="true" uuid="fa5651cb-bc42-4c40-8f00-0da4f3622728">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://mediaio-20260107snapshot-cluster.cluster-cecpdke9m6vu.us-west-2.rds.amazonaws.com:5432/odkmedia-c</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <time-zone>UTC</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="video" read-only="true" uuid="f4cbd678-6e00-4831-ac5a-c13f5ba447a4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://video-api-production.cluster-cecpdke9m6vu.us-west-2.rds.amazonaws.com:5432/videoapi</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</application>

@@ -1,0 +1,45 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/android-play-publisher-api/v3/python" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/odk-frontend" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/InAppPy" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/billadm" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/cgv-macro" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/django_docker" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/etl" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/gen-ai-video-short-form-generator" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/infra" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/macro" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/odk-web" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/odkmedia.io" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/odx-admin-front" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/odx-api-docs" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/odx-popularity" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/player-event" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/python-pubsub" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/reco_api" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/reco_with_dask" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/rele" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/ucms-be" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/ucms-odkmedia" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/ucms-odkmedia/odkmedia.io" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/ucms-odkmedia/ucms-be" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/v2_api_billing" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/v2_api_billing/v2_api_billing" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/video.api" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/webhook" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/z-one2.0" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects" />
+      </list>
+    </option>
+  </component>
+</application>
