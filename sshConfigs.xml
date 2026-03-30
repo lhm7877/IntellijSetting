@@ -1,0 +1,19 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-52-34-184-118.us-west-2.compute.amazonaws.com" id="fb6702a6-a55d-48ce-a4dc-70aa3587668d" keyPath="$USER_HOME$/odkmedia-io.pem" port="22" customName="[ST] bastion" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+        <option name="customName" value="[ST] bastion" />
+      </sshConfig>
+      <sshConfig host="ec2-50-112-170-58.us-west-2.compute.amazonaws.com" id="74a3e8a9-c381-4715-bf54-1700bed051ef" keyPath="$USER_HOME$/odkmedia-io.pem" port="22" customName="[PR] bastion" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+        <option name="customName" value="[PR] bastion" />
+      </sshConfig>
+      <sshConfig host="54.70.37.102" id="554cabee-b87a-49aa-9637-d045face3ce8" keyPath="$USER_HOME$/kp-uswest2-stg2-bastion.pem" port="22" customName="[ST2] bastion" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+        <option name="customName" value="[ST2] bastion" />
+      </sshConfig>
+      <sshConfig host="ec2-35-85-63-86.us-west-2.compute.amazonaws.com" id="a23b95df-91ef-4d58-ba98-1fe65fc9d9bb" keyPath="$USER_HOME$/.ssh/id_odk_rsa_st1" port="22" customName="[ST1] bastion" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+        <option name="customName" value="[ST1] bastion" />
+      </sshConfig>
+      <sshConfig host="ec2-35-87-72-27.us-west-2.compute.amazonaws.com" id="e5cb1de4-81bc-47c6-a4e1-9aaa3e20829e" keyPath="$USER_HOME$/.ssh/kp-uswest2-stg-database-bastion.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>

@@ -1,0 +1,112 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="Arrangement.Rule.Edit" />
+  <action id="BookmarksView.Rename" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Console.TableResult.FirstPage">
+    <keyboard-shortcut first-keystroke="meta alt home" />
+  </action>
+  <action id="Console.TableResult.LastPage">
+    <keyboard-shortcut first-keystroke="meta alt end" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="d" />
+  </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="s" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="u" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="GotoTest" />
+  <action id="InsertLiveTemplate" />
+  <action id="Jdbc.OpenConsole.Any">
+    <keyboard-shortcut first-keystroke="shift meta f10" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl meta z" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+  </action>
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+  </action>
+  <action id="ServiceView.ShowServices" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Table-startEditing" />
+  <action id="Terminal.NewTab" />
+  <action id="Tree-startEditing" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="t" />
+  </action>
+  <action id="XDebugger.NewWatch">
+    <keyboard-shortcut first-keystroke="alt help" />
+  </action>
+  <action id="XDebugger.SetValue" />
+  <action id="com.codeium.intellij.command.CommandAction">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="continue.inlineEdit" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+</keymap>

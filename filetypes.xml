@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="default:1:auth:verification:phone:+14085552190" type="AUTO_DETECTED" />
+      <mapping ext="numbers" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="mdc" type="PLAIN_TEXT" />
+      <mapping ext="p8" type="PLAIN_TEXT" />
+      <mapping ext="class" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="srt" type="PLAIN_TEXT" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
+    </extensionMap>
+  </component>
+</application>

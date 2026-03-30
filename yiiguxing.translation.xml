@@ -1,0 +1,29 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1689731070050" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="KOREAN" />
+    <option name="translator" value="OPEN_AI" />
+  </component>
+  <component name="Translation.States">
+    <option name="translationDialogHeight" value="325" />
+    <option name="translationDialogLocationX" value="727" />
+    <option name="translationDialogLocationY" value="555" />
+    <option name="translationDialogWidth" value="650" />
+    <histories>
+      <item value="[2024-07-31 21:08:33 -0700] [252] [INFO] Worker exiting (pid: 252) 2024-08-01T04:08:33.183579551Z [2024-07-31 21:08:33 -0700] [246] [INFO] Worker exiting (pid: 246) 2024-08-01T04:08:33.327990510Z 'Order ID from AP" />
+      <item value="An optional Boolean value that indicates whether the response includes only revoked transactions when the value is true, or contains only nonrevoked transactions when the value is false. By default, the request doesn't include this parameter." />
+      <item value="An optional start date of the timespan for the transaction history records you're requesting. The startDate must precede the endDate if you specify both dates. To be included in results, the transaction's purchaseDate must be equal to or greater than the startDate." />
+      <item value="{'id': 'tet6y0qc3qlp', 'object': 'subscription', 'uuid': '6b70acc7855ca25de5840148e698715d', 'account': {'id': 'tet6xc8yt4oo', 'object': 'account', 'code': 'e7227e13-5ef9-4f99-b266-1adf851e00a5', 'email': 'hoominlee@odkmedia.net', 'first_name': '', 'last_name': '', 'company': '', 'parent_account_id': None, 'bill_to': 'self', 'dunning_campaign_id': None}, 'billing_info_id': None, 'active_invoice_id': 'tgiori49wbcc', 'plan': {'id': 'rf02wt9xehya', 'object': 'plan', 'code': 'odk-premium-1-month', 'name': 'ODK Premium 1 Month'}, 'state': 'active', 'shipping': {'object': 'subscription_shipping', 'address': None, 'method': None, 'amount': 0.0}, 'coupon_redemptions': None, 'pending_change': None, 'current_period_started_at': datetime.datetime(2023, 8, 25, 19, 53, 5, tzinfo=datetime.timezone.utc), 'current_period_ends_at': datetime.datetime(2023, 9, 25, 19, 53, 5, tzinfo=datetime.timezone.utc), 'current_term_started_at': datetime.datetime(2023, 8, 25, 19, 53, 5, tzinfo=datetime.timezone.utc), 'current_term_ends_at': datetime.datetime(2023, 9, 25, 19, 53, 5, tzinfo=datetime.timezone.utc), 'trial_started_at': None, 'trial_ends_at': None, 'remaining_billing_cycles': 0, 'total_billing_cycles': 1, 'renewal_billing_cycles': 1, 'revenue_schedule_type': 'evenly', 'auto_renew': True, 'paused_at': None, 'remaining_pause_cycles': None, 'currency': 'USD', 'tax_inclusive': None, 'unit_amount': 10.99, 'quantity': 1, 'add_ons': [], 'add_ons_total': 0.0, 'subtotal': 10.99, 'collection_method': 'automatic', 'po_number': None, 'net_terms': 0, 'terms_and_conditions': None, 'customer_notes': None, 'expiration_reason': None, 'custom_fields': [], 'bank_account_authorized_at': None, 'gateway_code': None, 'started_with_gift': None, 'converted_at': None, 'created_at': datetime.datetime(2023, 8, 17, 5, 4, 32, tzinfo=datetime.timezone.utc), 'updated_at': datetime.datetime(2023, 8, 25, 19, 53, 5, tzinfo=datetime.timezone.utc), 'activated_at': datetime.datetime(2023, 8, 17, 5, 4, 32, tzinfo=datetime.timezone.utc), 'canceled_at': None, 'expires_at': None, 'action_result': None, 'tax': 0.0, 'tax_info': None, 'total': 10.99, 'ramp_intervals': []}" />
+      <item value="RemovedInDjango40Warning: when the deprecation ends, replace with:" />
+      <item value="If get_response is a coroutine function, turns us into async mode so a thread is not consumed during a whole request." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="2" />
+        <entry key="KOREAN" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
