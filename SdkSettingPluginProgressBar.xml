@@ -1,7 +1,7 @@
 <application>
   <component name="configuration.DragonBallProgressState">
-    <option name="pathLeftIco" value="Sprites/[LeftFighter]_Trunks_v1.gif" />
-    <option name="pathRightIco" value="Sprites/[RightFighter]_MajinBu_v3.png" />
+    <option name="pathLeftIco" value="Sprites/[LeftFighter]_Hit_v1.png" />
+    <option name="pathRightIco" value="Sprites/[RightFighter]_C18_v1.png" />
     <option name="typeOfRandom" value="BOTH" />
   </component>
 </application>
