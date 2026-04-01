@@ -1,5 +1,16 @@
 <application>
   <component name="SettingsSyncSettings">
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="me.rafaelldi.aspire" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="migrationFromOldStorageChecked" value="true" />
     <option name="syncEnabled" value="true" />
   </component>

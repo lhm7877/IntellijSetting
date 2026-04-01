@@ -21,6 +21,7 @@
     <option name="shouldDisplayPage" value="false" />
   </component>
   <component name="q">
+    <option name="QMigrationNotificationShownOnce" value="true" />
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
     <option name="promptedForTelemetry" value="true" />
   </component>

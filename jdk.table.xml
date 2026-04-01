@@ -2601,31 +2601,33 @@
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1899345628/-853142960" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1899345628/-214495656" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1899345628/780403508" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/-923448878" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1899345628/-853142960" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1899345628/-214495656" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1899345628/780403508" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/python_stubs/-923448878" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/m3u8" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pytz" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tqdm" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/redis" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/uWSGI" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/flake8" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pillow" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/grpcio" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyasn1" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/docutils" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jmespath" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/protobuf" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psycopg2" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyflakes" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xmltodict" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/django-filter" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/grpcio-status" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/bundled_stubs/Django" type="simple" />
@@ -2641,9 +2643,9 @@
         <PathMappingSettings>
           <option name="pathMappings">
             <list>
-              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1899345628/-853142960" remote-root="/usr/local/lib/python3.12" />
-              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1899345628/-214495656" remote-root="/usr/local/lib/python3.12/lib-dynload" />
-              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1899345628/780403508" remote-root="/usr/local/lib/python3.12/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1899345628/-853142960" remote-root="/usr/local/lib/python3.12" />
+              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1899345628/-214495656" remote-root="/usr/local/lib/python3.12/lib-dynload" />
+              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1899345628/780403508" remote-root="/usr/local/lib/python3.12/site-packages" />
             </list>
           </option>
         </PathMappingSettings>
@@ -2670,11 +2672,10 @@
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1826999107/249573930" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1826999107/1733179186" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1826999107/-109814386" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/1437855905" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1826999107/249573930" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1826999107/1733179186" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1826999107/-109814386" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/python_stubs/1437855905" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
@@ -2682,13 +2683,12 @@
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/toml" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tqdm" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/polib" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/redis" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/uWSGI" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/flake8" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pillow" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyasn1" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/qrcode" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pexpect" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/docutils" type="simple" />
@@ -2696,12 +2696,12 @@
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jmespath" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/oauthlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/protobuf" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psycopg2" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyflakes" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/decorator" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xmltodict" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/defusedxml" type="simple" />
@@ -2709,9 +2709,11 @@
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mysqlclient" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-jose" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/django-filter" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests-oauthlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-http-client" type="simple" />
           </root>
         </classPath>
         <sourcePath>
@@ -2724,9 +2726,9 @@
         <PathMappingSettings>
           <option name="pathMappings">
             <list>
-              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1826999107/249573930" remote-root="/usr/local/lib/python3.9" />
-              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1826999107/1733179186" remote-root="/usr/local/lib/python3.9/lib-dynload" />
-              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/remote_sources/-1826999107/-109814386" remote-root="/usr/local/lib/python3.9/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1826999107/249573930" remote-root="/usr/local/lib/python3.9" />
+              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1826999107/1733179186" remote-root="/usr/local/lib/python3.9/lib-dynload" />
+              <mapping local-root="$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/remote_sources/-1826999107/-109814386" remote-root="/usr/local/lib/python3.9/site-packages" />
             </list>
           </option>
         </PathMappingSettings>
