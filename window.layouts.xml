@@ -7,6 +7,7 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
+          "isVisible": true,
           "weight": 0.25
         },
         {
@@ -46,18 +47,6 @@
           "anchor": "BOTTOM"
         },
         {
-          "id": "Python Packages",
-          "order": 5,
-          "anchor": "BOTTOM",
-          "weight": 0.1
-        },
-        {
-          "id": "Python Console",
-          "order": 6,
-          "anchor": "BOTTOM",
-          "weight": 0.1
-        },
-        {
           "id": "Notifications",
           "order": 0,
           "anchor": "RIGHT",
@@ -87,12 +76,6 @@
           "order": 4,
           "anchor": "RIGHT",
           "weight": 0.25
-        },
-        {
-          "id": "Plots",
-          "order": 5,
-          "anchor": "RIGHT",
-          "weight": 0.1
         }
       ]
     }
