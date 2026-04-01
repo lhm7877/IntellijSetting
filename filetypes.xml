@@ -4,11 +4,11 @@
     <extensionMap>
       <mapping pattern="default:1:auth:verification:phone:+14085552190" type="AUTO_DETECTED" />
       <mapping ext="numbers" type="PLAIN_TEXT" />
+      <mapping ext="class" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="mdc" type="PLAIN_TEXT" />
       <mapping ext="p8" type="PLAIN_TEXT" />
-      <mapping ext="class" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
