@@ -14,7 +14,7 @@
         <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="true" predefined="${name}" />
         <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="true" predefined="$(name)" />
         <parameter-pattern value="(?&lt;![@&lt;])@[a-zA-Z0-9_]+" in-scripts="true" scope="C#, F#, -GenericSQL, -Oracle, -MongoDB, -Redis, -MySQL, -MySQL, -MySQL, -SQLite, -SQL92, -OracleSqlPlus, -NetSuite, -TSQL, -AZURE, -Sybase, -MariaDB, PostgreSQL, -CassandraQL, -ClickHouse, -DB2, -DB2, -DB2_IS, -DB2_ZOS, -Derby, -Exasol, Greenplum, -H2, -HiveQL, -HSQLDB, Redshift, Snowflake, -SparkSQL, -Databricks, Vertica, -BigQuery, -CouchbaseQuery, Cockroach, -Dynamo" />
-        <parameter-pattern value="(?&lt;![@&lt;])@[a-zA-Z0-9_]+" in-scripts="true" scope="C#, F#, -GenericSQL, -Oracle, -MongoDB, -Redis, -MySQL, -MySQL, -MySQL, -SQLite, -SQL92, -OracleSqlPlus, -NetSuite, -TSQL, -AZURE, -Sybase, -MariaDB, PostgreSQL, -CassandraQL, -ClickHouse, -DB2, -DB2, -DB2_IS, -DB2_ZOS, -Derby, -Exasol, Greenplum, -H2, -HiveQL, -HSQLDB, Redshift, Snowflake, -SparkSQL, -Databricks, Vertica, -BigQuery, -CouchbaseQuery, Cockroach, -Dynamo" predefined="@name" />
+        <parameter-pattern value="(?&lt;![@&lt;])@[a-zA-Z0-9_]+" in-scripts="true" scope="C#, F#, -GenericSQL, -Oracle, -MongoDB, -Redis, -MySQL, -MySQL, -MySQL, -SQLite, -SQL92, -OracleSqlPlus, -NetSuite, -TSQL, -AZURE, -Sybase, -MariaDB, PostgreSQL, -CassandraQL, -ClickHouse, -DB2, -DB2, -DB2_IS, -DB2_ZOS, -Derby, -Exasol, Greenplum, -H2, -HiveQL, -HSQLDB, Redshift, Snowflake, -SparkSQL, -Databricks, Vertica, -BigQuery, -CouchbaseQuery, Cockroach, -Dynamo" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
