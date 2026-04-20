@@ -1,17 +1,10 @@
 <application>
-  <component name="codewhispererStates">
-    <option name="value">
-      <map>
-        <entry key="IsFirstRestartAfterQInstall" value="false" />
-      </map>
-    </option>
-  </component>
-  <component name="q">
+  <component name="toolkit">
     <option name="QMigrationNotificationShownOnce" value="true" />
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
     <option name="promptedForTelemetry" value="true" />
   </component>
-  <component name="qAuthManager">
+  <component name="toolkitAuthManager">
     <option name="lastLoginIdcInfo">
       <LastLoginIdcInfo>
         <option name="profileName" value="d-90662322c5" />
@@ -20,7 +13,7 @@
       </LastLoginIdcInfo>
     </option>
   </component>
-  <component name="qNotificationEtag">
+  <component name="toolkitNotificationEtag">
     <option name="etag" value="&quot;19a4ec409b92ae1dea755e0d62f33ce0&quot;" />
   </component>
 </application>
