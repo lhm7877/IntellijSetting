@@ -28,7 +28,7 @@
       <jdbc-url>jdbc:postgresql://localhost:15434/log</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="postgres [pr]" read-only="true" uuid="05a4543a-45f5-4042-9f4b-41c6082c34ba">
+    <data-source source="LOCAL" name="postgres [pr]" uuid="05a4543a-45f5-4042-9f4b-41c6082c34ba">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -55,7 +55,7 @@
       <jdbc-url>jdbc:mysql://terraform-00baa395baa31ab57a2ffd5bd2.cecpdke9m6vu.us-west-2.rds.amazonaws.com:3306/db_billing</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="billing [pr]" read-only="true" uuid="060ab82b-57b7-4a52-a4e5-c0dd0f00f3a7">
+    <data-source source="LOCAL" name="billing [pr]" uuid="060ab82b-57b7-4a52-a4e5-c0dd0f00f3a7">
       <driver-ref>mysql_aurora</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
