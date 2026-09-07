@@ -19,16 +19,12 @@
       <removed_mapping ext="class" type="CLASS" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
-      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="tps" approved="true" type="XML" />
       <removed_mapping ext="tps" approved="true" type="XML" />
-      <removed_mapping ext="tps" approved="true" type="XML" />
       <removed_mapping ext="usf" approved="true" type="C/C++" />
       <removed_mapping ext="usf" approved="true" type="C/C++" />
-      <removed_mapping ext="usf" approved="true" type="C/C++" />
-      <removed_mapping ext="ush" approved="true" type="C/C++ Header" />
       <removed_mapping ext="ush" approved="true" type="C/C++ Header" />
       <removed_mapping ext="ush" approved="true" type="C/C++ Header" />
     </extensionMap>
