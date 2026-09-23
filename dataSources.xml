@@ -28,7 +28,7 @@
       <jdbc-url>jdbc:postgresql://localhost:15434/log</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="postgres [pr]" uuid="05a4543a-45f5-4042-9f4b-41c6082c34ba">
+    <data-source source="LOCAL" name="postgres [pr]" read-only="true" uuid="05a4543a-45f5-4042-9f4b-41c6082c34ba">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -40,13 +40,6 @@
       </jdbc-additional-properties>
       <working-dir>$ProjectFileDir$</working-dir>
       <time-zone>UTC</time-zone>
-    </data-source>
-    <data-source source="LOCAL" name="postgres [st2]" uuid="d3fde4da-b1c7-4092-9775-2cbe3d178ae7">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://postgres-uswest2-stg2-mediaio.cl0xpazfqqj5.us-west-2.rds.amazonaws.com:5432/odkmedia-c</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="billing [st]" uuid="9886c27a-e18a-41e4-a227-d2df51570979">
       <driver-ref>mysql.8</driver-ref>
