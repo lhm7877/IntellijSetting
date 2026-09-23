@@ -7,7 +7,7 @@
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" channel="MariaDB_2.X" rolling="true" use="true" version="2.7.12" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.7.3" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.7.13" />
     </driver>
   </component>
 </application>
