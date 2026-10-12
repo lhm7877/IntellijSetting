@@ -146,7 +146,7 @@
       <jdbc-url>jdbc:postgresql://localhost:25432/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="ucms [pr]" read-only="true" uuid="26b64007-1dd3-48cc-b097-87b5f021ca17">
+    <data-source source="LOCAL" name="ucms [pr]" uuid="26b64007-1dd3-48cc-b097-87b5f021ca17">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
