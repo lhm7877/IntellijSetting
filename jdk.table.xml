@@ -2245,10 +2245,8 @@
             <root url="file://$USER_HOME$/.pyenv/versions/3.10.14/lib/python3.10" type="simple" />
             <root url="file://$USER_HOME$/.pyenv/versions/3.10.14/lib/python3.10/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/pypoetry/virtualenvs/etl-9kpJP54e-py3.10/lib/python3.10/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/2134973693" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.1/python_stubs/2134973693" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/bundled_stubs/Django" type="simple" />
           </root>
         </classPath>
         <sourcePath>
